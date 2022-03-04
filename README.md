@@ -1,6 +1,6 @@
 # simonGame
 
-## Another visrsion of a popular Simon Game :)
+## Another visrsion of a popular Simon Game using jQuery:)
 
 https://tumblinger.github.io/simonGame/
 
